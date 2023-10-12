@@ -25,7 +25,7 @@ To build and run this app, you need:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/finance-tracker-app.git
+   [git clone https://github.com/your-username/finance-tracker-app.git](https://github.com/drenchew/FinancerApp.git)
 
    Navigate to the project directory:
 
